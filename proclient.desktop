@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=PROClient
+Comment=Start the PROClient Application
+Exec=/opt/PROClient/PROClient.x86_64
+Icon=proclient
+Terminal=false
+Type=Application
+Categories=Utility;
